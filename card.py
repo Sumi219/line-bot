@@ -2,9 +2,9 @@
 # 想改樣子：改下面 THEME 的顏色（填你 Canva 選單用的色碼），或把 bubble 的內容整段貼到
 # Flex Message Simulator（https://developers.line.biz/flex-simulator/）拖拉修改，再貼回來
 THEME = {
-    '主色': '#2E7D6B',    # 卡片頂端的底色
+    '主色': '#9747ff',    # 卡片頂端的底色
     '字色': '#FFFFFF',    # 頂端的字
-    '強調': '#F4A340',    # 溫度數字、按鈕
+    '強調': '#a06ce4',    # 溫度數字、按鈕
 }
 
 WEATHER_ICON = {'晴': '☀️', '雲': '⛅', '陰': '☁️', '雨': '🌧️', '雷': '⛈️', '霧': '🌫️'}
